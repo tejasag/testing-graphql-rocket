@@ -5,3 +5,4 @@ Rocket.toml
 Rocket.toml.example
 docker-compose.yml
 /db
+.idea/
