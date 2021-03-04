@@ -1,0 +1,7 @@
+/target
+.env
+Rocket.toml
+.env.example
+Rocket.toml.example
+docker-compose.yml
+/db
