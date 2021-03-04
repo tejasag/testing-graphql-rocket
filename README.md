@@ -14,6 +14,11 @@ You might see some weird and bad code practises in the code but that is just the
 git clone https://github.com/tejasag/testing-graphql-rocket
 ```
 
+- **Switch to nightly build of rust** <br/>
+```shell
+rustup override set nightly
+```
+
 - **Run the code**
 ```shell
 cargo run
